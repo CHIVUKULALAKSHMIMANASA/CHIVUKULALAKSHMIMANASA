@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @CHIVUKULALAKSHMIMANASA
-- 🚀 Passionate about building scalable, integrated, and future-ready applications 
-- 💻 Dedicated to building modern applications while ensuring streamlined development processes and robust project management practices.
-- 🌱 Currently strengthening my skills in Java and Python  
-- 🤝 Open to collaborating with real-world teams to gain hands-on project experience
-- 📫 Reach me at: chivukulalakshmimanasa@gmail.com
+- 👋 Hi, I’m CHIVUKULA LAKSHMI MANASA
+- 💼 Product Management | QA Automation Engineer Analyst with 2 years of experience in enterprise SaaS products.
+- ⚙️ Experienced in test automation using Selenium WebDriver, TestNG, Playwright, Maven, and Jenkins. 
+- 💻 Passionate about building reliable, scalable, and high-quality software solutions.
+- 🌱 Currently enhancing my skills in Salesforce, Agentic AI, AI Agents, Prompt Engineering, Retrieval-Augmented Generation         (RAG), MCP, and AI-powered automation.
+- 🤝 Open to collaborating on automation, AI, Salesforce, and enterprise application projects.
+- 📫 Reach me at: clmanasa25@gmail.com
